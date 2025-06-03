@@ -17,22 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-testtestesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttestt
+Lingbo Wang graduated from Qilu University of Technology with a bachelor’s degree. Now he is a master student from Soochow University, advised by [Yu Hong](https://scst.suda.edu.cn/0c/f9/c30767a527609/page.htm)
+
+His research is centered on Gounded Task Planning and World Model. Now he has developed a strong interest in reinforcement learning, planing to incorporate RL methods into planning in the future.
+
+
 
 
 
 # 🔥 News
-None
+- Submitted a paper at EMNLP2025
 
 # 📝 Publications 
-None
+
 
 
 # 🎖 Honors and Awards
 None
 
 # 📖 Educations
-- *2024.09 - 2025.3(now)*, Soochow University
+- *2024.09 - 2027.06*, Soochow University
+- *2020.09 - 2024.06*, Qilu University of Technology
 
 # 💬 Invited Talks
 None
