@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Lingbo Wang"
-description              : "A student from Soochow University"
+description              : "Lingbo Wang - VLM, reinforcement learning, and agent memory"
+url                      : "https://vllbc.top"
 repository               : "vllbc02/vllbc02.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,11 +24,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lingbo Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Soochow Unsiversity"
+  bio              : "M.S. student at Soochow University · VLM · RL · Agent Memory"
   location         : "Suzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    :
   email            : "vllbc66@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://blog.vllbc.top"

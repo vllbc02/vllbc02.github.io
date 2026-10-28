@@ -28,3 +28,4 @@ end
 
 gem "webrick", "~> 1.9"
 gem "jekyll", "~> 3.9.0"
+gem "csv"
