@@ -25,11 +25,13 @@ My work focuses on **vision-language model (VLM) pre-training and post-training*
 # 📝 Publications
 
 1. **EffectMem: Effectiveness-Driven Memory Reuse for Long-Horizon LLM Agents**<br>
-   **Lingbo Wang** (first author). *EMNLP 2026*, CCF-B.<br>
+   Jingjing Yin<sup>\*</sup>, **Lingbo Wang**<sup>\*</sup>, Dongyan Cao, Yu Hong. *EMNLP 2026*, CCF-B.<br>
+   <sup>\*</sup> Equal contribution.<br>
    We introduce an effectiveness-driven memory reuse framework that represents successful trajectories as executable contracts and validates their applicability before reuse. EffectMem outperforms ReAct, ExpeL, AutoGuide, and CFGM on ALFWorld, ScienceWorld, and WebShop.
 
 2. **Anti-Exception Action Generation for Automatic Planning**<br>
-   **Lingbo Wang** (first author). *ICASSP 2026*, CCF-B.
+   **Lingbo Wang**, Dongyan Cao<sup>\*</sup>, Yu Hong<sup>\*</sup>. *ICASSP 2026*, CCF-B.<br>
+   <sup>\*</sup> Corresponding author.
 
 3. **RubricFlow-Mem: Rubric-Guided Self-Evolving Curriculum for Long-Term Memory Agents**<br>
    **Lingbo Wang** (first author). *Under review at ICLR 2027*.
